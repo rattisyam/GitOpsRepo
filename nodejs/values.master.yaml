@@ -7,7 +7,7 @@ image:
   repository: onboard.azurecr.io/gitopsnjs
   pullPolicy: Always
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "s-2e90c7b"
+  tag: "s-76ca778"
 imagePullSecrets:
   - name: "gitops"
 nameOverride: ""
