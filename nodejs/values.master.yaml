@@ -68,3 +68,4 @@ autoscaling:
 nodeSelector: {}
 tolerations: []
 affinity: {}
+env: "Production"
